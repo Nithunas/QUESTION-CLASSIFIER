@@ -14,7 +14,7 @@ I decided to approach the problem as that of classification, with the question t
 Execute `python train.py`
 
 ## Dependencies
-1. Python >= 3.7
+1. Python >= 3.7.1
 2. nltk
 
 # The Dataset
